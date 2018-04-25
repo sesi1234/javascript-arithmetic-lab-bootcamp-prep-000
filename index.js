@@ -6,7 +6,7 @@ function add(){
 }
 
 function subtract(){
-  
+  number -= 2
 }
 
 function multiply(){
