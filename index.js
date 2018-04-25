@@ -1,7 +1,7 @@
 
 var number = 
 
-function add(a,b){
+function add(a, b){
 
   return a + b
 }
@@ -17,5 +17,4 @@ function multiply(){
 function divide(){
   number /= 5
 }
-add()
-console.log(number)
+
