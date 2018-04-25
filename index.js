@@ -10,7 +10,7 @@ function subtract(){
 }
 
 function multiply(){
-  
+  number *= 10 // 50
 }
 
 function divide(){
