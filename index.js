@@ -8,8 +8,8 @@ function subtract(a, b){
  return a - b
 }
 
-function multiply(){
-  number *= 10 // 50
+function multiply(a, b){
+  return a*b
 }
 
 function divide(){
