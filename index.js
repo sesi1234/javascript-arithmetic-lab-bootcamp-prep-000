@@ -16,3 +16,5 @@ function multiply(){
 function divide(){
   number /= 5
 }
+add()
+c
