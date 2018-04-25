@@ -2,8 +2,8 @@
 var number = 
 
 function add(a,b){
-  number += 3
-  return add
+
+  return a + b
 }
 
 function subtract(){
