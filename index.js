@@ -17,4 +17,4 @@ function divide(){
   number /= 5
 }
 add()
-c
+console.log(number)
