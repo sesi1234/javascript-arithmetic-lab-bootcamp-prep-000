@@ -1,7 +1,7 @@
 
 var number = 5
 
-function add(){
+function add(a,b){
   number += 3
 }
 
